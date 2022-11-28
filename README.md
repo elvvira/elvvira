@@ -1,5 +1,5 @@
 
-![Imagen decorativa de tu perfil](https://github.com/elvvira/readme/blob/main/assets/cabecera%20git.jpg?raw=true)
+![Imagen decorativa de tu perfil](https://github.com/elvvira/elvvira/blob/main/assets/cabecera%20git.jpg?raw=true)
 
 <!-- Generado con https://rahuldkjain.github.io/gh-profile-readme-generator/ -->
 <h1 align="center">Hola! Soy Elvvira</h1>
