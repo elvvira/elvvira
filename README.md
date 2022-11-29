@@ -9,7 +9,7 @@
 
 - Estoy estudiando **HTML, CSS, JavaScript, Saass**
 
-- Todos mis proyectos se encuentran en [MIDOMINIO.COM](MIDOMINIO.COM)
+- Todos mis proyectos se encuentran en mi página de GitHub
 
 - Puedes contactar conmigo a través de: **elvvira.castellanos@gmail.com**
 
